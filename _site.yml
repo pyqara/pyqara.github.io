@@ -7,3 +7,9 @@ navbar:
       href: index.html
     - text: "About Us"
       href: about.html
+    - text: "Products"
+      href: products.html
+output:
+html_document:
+  theme: flatly
+  css: style.css
