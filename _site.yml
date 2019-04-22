@@ -1,1 +1,9 @@
-
+name: "Poly Packaging"
+output_dir: "."
+navbar:
+  title: "Hangzhou Poly Packaging Co., Ltd."
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Us"
+      href: about.html
