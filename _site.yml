@@ -1,0 +1,11 @@
+name: "polypkg-website"
+output_dir: "."
+navbar:
+  title: "Poly Packaging"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Us"
+      href: about.html
+    - text: "Products"
+      href: products.html

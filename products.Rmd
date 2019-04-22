@@ -1,0 +1,15 @@
+---
+title: "Products Portfolio"
+---
+
+We offer a wide range of plastic packaging products and materials.
+
+## Product Type 1
+
+- Item 1
+- Item 2
+
+## Product Type 2
+
+- Item 3
+- Item 4
